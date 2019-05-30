@@ -1,6 +1,6 @@
 package com.imis.reading.controller;
 
-import com.imis.reading.ReadingListRepository;
+import com.imis.reading.servers.ReadingListRepository;
 import com.imis.reading.entity.Book;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;

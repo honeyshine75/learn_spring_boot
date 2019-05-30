@@ -1,4 +1,4 @@
-package com.imis.reading;
+package com.imis.reading.servers;
 
 import com.imis.reading.entity.Book;
 import org.springframework.data.jpa.repository.JpaRepository;
